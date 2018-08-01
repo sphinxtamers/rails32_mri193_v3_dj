@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.13'
+gem 'rails', '~> 3.2.13'
 gem 'pg',    '0.15.1'
 
 gem 'delayed_job_active_record', '~> 0.4.4'
